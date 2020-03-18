@@ -1,3 +1,4 @@
+# GAN
 The project is focusing on the Generative Adversarial Model:   
 
 •	Implemented a GAN model with Python to train the 2D uniform random noise and output a Gaussian distribution dataset.  
